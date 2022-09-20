@@ -7,7 +7,7 @@ I'm a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
  
 
 ### 🛠 Technologies & Tools
-<p>
+<div>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
@@ -16,6 +16,15 @@ I'm a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
+### Reach me out 👇🏼
+<div id="badges">
+  <a href="polina.vasilevichh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="www.linkedin.com/in/palina-vasilevich-b3b8441b4">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <!--
 **PalinaVasilevich/PalinaVasilevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
