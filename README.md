@@ -16,15 +16,9 @@ I'm a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-### Reach me out 👇🏼
-<div id="badges">
-  <a href="polina.vasilevichh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="www.linkedin.com/in/palina-vasilevich-b3b8441b4">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+#### Reach me out 👇🏼
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:polina.vasilevichh@gmail.com)](mailto:polina.vasilevichh@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/palina-vasilevich-b3b8441b4/)](https://www.linkedin.com/in/palina-vasilevich-b3b8441b4/)
 
 <!--
 **PalinaVasilevich/PalinaVasilevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
