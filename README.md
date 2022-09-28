@@ -1,5 +1,5 @@
 # 👋 Hello there!
-I'm a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Minsk
+I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Minsk
 
  <div>
    <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs?username=palinavasilevich&layout=compact&langs_count=16&theme=dracula"" alt="palinavasilevich"/>
